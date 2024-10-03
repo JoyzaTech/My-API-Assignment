@@ -1,5 +1,6 @@
 const express = require('express');
 const fs = require('fs');
+const path = require('path');
 require('dotenv').config();
 const app = express();
 
@@ -16,20 +17,37 @@ function checkAdminPassword(req, res, next) {
   next();
 }
 
+// Define file paths
+const usersFilePath = path.join(__dirname, 'data', 'users.json');
+const devicesFilePath = path.join(__dirname, 'data', 'devices.json');
+
 // Load data from JSON files
-let users = JSON.parse(fs.readFileSync('users.json', 'utf8'));
-let devices = JSON.parse(fs.readFileSync('devices.json', 'utf8'));
-
-// Save updated data back to the JSON files
-function saveUsers() {
-  fs.writeFileSync('users.json', JSON.stringify(users, null, 2));
+function loadData(filePath) {
+  if (!fs.existsSync(filePath)) return [];
+  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-function saveDevices() {
-  fs.writeFileSync('devices.json', JSON.stringify(devices, null, 2));
+let users = loadData(usersFilePath);
+let devices = loadData(devicesFilePath);
+
+// Save data to JSON files
+function saveData(filePath, data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
-// Add a new user
+// API Endpoints
+app.get('/api/users/:id', (req, res) => {
+  const user = users.find(u => u.id === parseInt(req.params.id));
+  if (!user) return res.status(404).json({ message: 'User not found.' });
+  res.json(user);
+});
+
+app.get('/api/devices/:id', (req, res) => {
+  const device = devices.find(d => d.id === parseInt(req.params.id));
+  if (!device) return res.status(404).json({ message: 'Device not found.' });
+  res.json(device);
+});
+
 app.post('/api/users', checkAdminPassword, (req, res) => {
   const newUser = {
     id: users.length + 1,
@@ -37,11 +55,10 @@ app.post('/api/users', checkAdminPassword, (req, res) => {
     email: req.body.email
   };
   users.push(newUser);
-  saveUsers();
+  saveData(usersFilePath, users);
   res.status(201).json({ message: 'User added successfully!', user: newUser });
 });
 
-// Add a new device
 app.post('/api/devices', checkAdminPassword, (req, res) => {
   const newDevice = {
     id: devices.length + 1,
@@ -51,46 +68,22 @@ app.post('/api/devices', checkAdminPassword, (req, res) => {
     owner_id: req.body.owner_id
   };
   devices.push(newDevice);
-  saveDevices();
+  saveData(devicesFilePath, devices);
   res.status(201).json({ message: 'Device added successfully!', device: newDevice });
 });
 
-// Get all users
-app.get('/api/users', (req, res) => {
-  res.json(users);
-});
-
-// Get all devices
-app.get('/api/devices', (req, res) => {
-  res.json(devices);
-});
-
-// Delete a user by ID
 app.delete('/api/users/:id', checkAdminPassword, (req, res) => {
   const userId = parseInt(req.params.id);
-  const userIndex = users.findIndex(user => user.id === userId);
-  
-  if (userIndex !== -1) {
-    users.splice(userIndex, 1);
-    saveUsers();
-    res.status(200).json({ message: 'User deleted successfully.' });
-  } else {
-    res.status(404).json({ message: 'User not found.' });
-  }
+  users = users.filter(u => u.id !== userId);
+  saveData(usersFilePath, users);
+  res.json({ message: 'User deleted successfully.' });
 });
 
-// Delete a device by ID
 app.delete('/api/devices/:id', checkAdminPassword, (req, res) => {
   const deviceId = parseInt(req.params.id);
-  const deviceIndex = devices.findIndex(device => device.id === deviceId);
-  
-  if (deviceIndex !== -1) {
-    devices.splice(deviceIndex, 1);
-    saveDevices();
-    res.status(200).json({ message: 'Device deleted successfully.' });
-  } else {
-    res.status(404).json({ message: 'Device not found.' });
-  }
+  devices = devices.filter(d => d.id !== deviceId);
+  saveData(devicesFilePath, devices);
+  res.json({ message: 'Device deleted successfully.' });
 });
 
 const PORT = process.env.PORT || 3000;

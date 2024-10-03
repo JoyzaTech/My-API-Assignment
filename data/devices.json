@@ -30,12 +30,6 @@
     "release_year": 2007
   },
   {
-    "id": 6,
-    "model": "HTC Desire P",
-    "brand": "HTC",
-    "release_year": 2001
-  },
-  {
     "id": 7,
     "model": "Acer Liquid E700",
     "brand": "Acer",
@@ -3005,5 +2999,12 @@
     "brand": "Meta",
     "release_year": "2024",
     "owner_id": "6"
+  },
+  {
+    "id": 502,
+    "model": "Quest 3S",
+    "brand": "Meta",
+    "release_year": "2024",
+    "owner_id": "4"
   }
 ]
