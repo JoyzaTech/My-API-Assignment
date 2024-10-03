@@ -3,137 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>User and VR Management</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f7f9fc;
-      padding: 20px;
-      color: #333;
-      line-height: 1.6;
-    }
-
-    h2 {
-      color: #333;
-      text-align: center;
-      margin-bottom: 20px;
-      font-size: 24px;
-    }
-
-    form {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-      max-width: 500px;
-      margin: 20px auto;
-      display: flex;
-      flex-direction: column;
-    }
-
-    input, button {
-      padding: 10px;
-      font-size: 16px;
-      margin-bottom: 10px;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      transition: border-color 0.3s;
-    }
-
-    input:focus {
-      outline: none;
-      border-color: #28a745;
-    }
-
-    button {
-      background-color: #28a745;
-      color: white;
-      border: none;
-      cursor: pointer;
-      transition: background-color 0.3s;
-    }
-
-    button:hover {
-      background-color: #218838;
-    }
-
-    .delete-button {
-      background-color: #dc3545;
-    }
-
-    .delete-button:hover {
-      background-color: #c82333;
-    }
-
-    .form-title {
-      text-align: center;
-      margin-bottom: 10px;
-      font-weight: bold;
-      color: #555;
-    }
-
-    .submit-success {
-      color: #28a745;
-      text-align: center;
-      margin-top: 10px;
-      display: none;
-    }
-
-    @media (max-width: 600px) {
-      body {
-        padding: 10px;
-      }
-
-      form {
-        width: 100%;
-      }
-
-      input, button {
-        font-size: 14px;
-      }
-
-      h2 {
-        font-size: 20px;
-      }
-    }
-  </style>
+  <title>Device and User Management</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h2>User and VR Device Management</h2>
+  <h1>Admin Panel</h1>
 
+  <!-- Admin password input -->
+  <label for="admin-password">Admin Password:</label>
+  <input type="password" id="admin-password">
+  <hr>
+
+  <!-- User form -->
+  <h2>Add User</h2>
   <form id="user-form">
-    <div class="form-title">Add New User</div>
-    <input type="text" id="name" placeholder="Name" required>
-    <input type="email" id="email" placeholder="Email" required>
-    <input type="password" id="admin-password" placeholder="Admin Password" required>
+    <label for="name">Name:</label>
+    <input type="text" id="name" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" required>
     <button type="submit">Add User</button>
-    <div class="submit-success" id="user-success">User added successfully!</div>
   </form>
 
-  <form id="vr-form">
-    <div class="form-title">Add New VR Device</div>
-    <input type="text" id="model" placeholder="Model" required>
-    <input type="text" id="brand" placeholder="Brand" required>
-    <input type="number" id="release_year" placeholder="Release Year" required>
-    <input type="number" id="owner_id" placeholder="Owner ID" required>
-    <input type="password" id="vr-admin-password" placeholder="Admin Password" required>
-    <button type="submit">Add VR Device</button>
-    <div class="submit-success" id="device-success">Device added successfully!</div>
+  <!-- Device form -->
+  <h2>Add Device</h2>
+  <form id="device-form">
+    <label for="model">Model:</label>
+    <input type="text" id="model" required>
+    <label for="brand">Brand:</label>
+    <input type="text" id="brand" required>
+    <label for="release_year">Release Year:</label>
+    <input type="number" id="release_year" required>
+    <label for="owner_id">Owner ID:</label>
+    <input type="number" id="owner_id" required>
+    <button type="submit">Add Device</button>
   </form>
 
-  <form id="delete-user-form">
-    <div class="form-title">Delete User</div>
-    <input type="number" id="delete-user-id" placeholder="User ID" required>
-    <input type="password" id="delete-user-admin-password" placeholder="Admin Password" required>
-    <button type="submit" class="delete-button">Delete User</button>
-  </form>
-
-  <form id="delete-device-form">
-    <div class="form-title">Delete VR Device</div>
-    <input type="number" id="delete-device-id" placeholder="Device ID" required>
-    <input type="password" id="delete-device-admin-password" placeholder="Admin Password" required>
-    <button type="submit" class="delete-button">Delete VR Device</button>
-  </form>
+  <h2>Search Results</h2>
+  <div id="search-results"></div>
 
   <script src="script.js"></script>
 </body>

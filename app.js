@@ -17,10 +17,19 @@ function checkAdminPassword(req, res, next) {
 }
 
 // Load data from JSON files
-let users = require('./data/users.json');
-let vrHeadsets = require('./data/devices.json');
+let users = JSON.parse(fs.readFileSync('users.json', 'utf8'));
+let devices = JSON.parse(fs.readFileSync('devices.json', 'utf8'));
 
-// POST: Add a new user
+// Save updated data back to the JSON files
+function saveUsers() {
+  fs.writeFileSync('users.json', JSON.stringify(users, null, 2));
+}
+
+function saveDevices() {
+  fs.writeFileSync('devices.json', JSON.stringify(devices, null, 2));
+}
+
+// Add a new user
 app.post('/api/users', checkAdminPassword, (req, res) => {
   const newUser = {
     id: users.length + 1,
@@ -28,83 +37,57 @@ app.post('/api/users', checkAdminPassword, (req, res) => {
     email: req.body.email
   };
   users.push(newUser);
-
-  // Write the updated users array to the file
-  fs.writeFileSync('./data/users.json', JSON.stringify(users, null, 2));
-
+  saveUsers();
   res.status(201).json({ message: 'User added successfully!', user: newUser });
 });
 
-// POST: Add a new device
+// Add a new device
 app.post('/api/devices', checkAdminPassword, (req, res) => {
-  const newVRHeadset = {
-    id: vrHeadsets.length + 1,
+  const newDevice = {
+    id: devices.length + 1,
     model: req.body.model,
     brand: req.body.brand,
     release_year: req.body.release_year,
     owner_id: req.body.owner_id
   };
-  vrHeadsets.push(newVRHeadset);
-
-  // Write the updated devices array to the file
-  fs.writeFileSync('./data/devices.json', JSON.stringify(vrHeadsets, null, 2));
-
-  res.status(201).json({ message: 'Device added successfully!', device: newVRHeadset });
+  devices.push(newDevice);
+  saveDevices();
+  res.status(201).json({ message: 'Device added successfully!', device: newDevice });
 });
 
-// GET: Get user by ID
-app.get('/api/users/:id', (req, res) => {
-  const userId = parseInt(req.params.id);
-  const user = users.find(u => u.id === userId);
-  
-  if (user) {
-    res.json(user);
-  } else {
-    res.status(404).json({ message: 'User not found.' });
-  }
+// Get all users
+app.get('/api/users', (req, res) => {
+  res.json(users);
 });
 
-// GET: Get device by ID
-app.get('/api/devices/:id', (req, res) => {
-  const deviceId = parseInt(req.params.id);
-  const device = vrHeadsets.find(d => d.id === deviceId);
-
-  if (device) {
-    res.json(device);
-  } else {
-    res.status(404).json({ message: 'Device not found.' });
-  }
+// Get all devices
+app.get('/api/devices', (req, res) => {
+  res.json(devices);
 });
 
-// DELETE: Delete user by ID
+// Delete a user by ID
 app.delete('/api/users/:id', checkAdminPassword, (req, res) => {
   const userId = parseInt(req.params.id);
-  const userIndex = users.findIndex(u => u.id === userId);
-
+  const userIndex = users.findIndex(user => user.id === userId);
+  
   if (userIndex !== -1) {
     users.splice(userIndex, 1);
-
-    // Write the updated users array to the file
-    fs.writeFileSync('./data/users.json', JSON.stringify(users, null, 2));
-
-    res.json({ message: 'User deleted successfully.' });
+    saveUsers();
+    res.status(200).json({ message: 'User deleted successfully.' });
   } else {
     res.status(404).json({ message: 'User not found.' });
   }
 });
 
-// DELETE: Delete device by ID
+// Delete a device by ID
 app.delete('/api/devices/:id', checkAdminPassword, (req, res) => {
   const deviceId = parseInt(req.params.id);
-  const deviceIndex = vrHeadsets.findIndex(d => d.id === deviceId);
-
+  const deviceIndex = devices.findIndex(device => device.id === deviceId);
+  
   if (deviceIndex !== -1) {
-    vrHeadsets.splice(deviceIndex, 1);
-
-    // Write the updated devices array to the file
-    fs.writeFileSync('./data/devices.json', JSON.stringify(vrHeadsets, null, 2));
-
-    res.json({ message: 'Device deleted successfully.' });
+    devices.splice(deviceIndex, 1);
+    saveDevices();
+    res.status(200).json({ message: 'Device deleted successfully.' });
   } else {
     res.status(404).json({ message: 'Device not found.' });
   }
