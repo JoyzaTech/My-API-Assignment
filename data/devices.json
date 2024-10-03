@@ -1,0 +1,3009 @@
+[
+  {
+    "id": 1,
+    "model": "alcatel OT-S210",
+    "brand": "alcatel",
+    "release_year": 1999
+  },
+  {
+    "id": 2,
+    "model": "Huawei Ascend G730",
+    "brand": "Huawei",
+    "release_year": 1991
+  },
+  {
+    "id": 3,
+    "model": "Sony Xperia GX SO-04D",
+    "brand": "Sony",
+    "release_year": 2011
+  },
+  {
+    "id": 4,
+    "model": "Maxwest Astro X55",
+    "brand": "Maxwest",
+    "release_year": 1994
+  },
+  {
+    "id": 5,
+    "model": "Gionee Pioneer P2",
+    "brand": "Gionee",
+    "release_year": 2007
+  },
+  {
+    "id": 6,
+    "model": "HTC Desire P",
+    "brand": "HTC",
+    "release_year": 2001
+  },
+  {
+    "id": 7,
+    "model": "Acer Liquid E700",
+    "brand": "Acer",
+    "release_year": 1990
+  },
+  {
+    "id": 8,
+    "model": "verykool s5029 Bolt Pro",
+    "brand": "verykool",
+    "release_year": 2007
+  },
+  {
+    "id": 9,
+    "model": "vivo Y20A",
+    "brand": "vivo",
+    "release_year": 2011
+  },
+  {
+    "id": 10,
+    "model": "Lava Iris Fuel 50",
+    "brand": "Lava",
+    "release_year": 1992
+  },
+  {
+    "id": 11,
+    "model": "vivo X50 Lite",
+    "brand": "vivo",
+    "release_year": 2002
+  },
+  {
+    "id": 12,
+    "model": "Yezz Andy 6Q",
+    "brand": "Yezz",
+    "release_year": 1992
+  },
+  {
+    "id": 13,
+    "model": "Micromax X100",
+    "brand": "Micromax",
+    "release_year": 2009
+  },
+  {
+    "id": 14,
+    "model": "Lenovo A526",
+    "brand": "Lenovo",
+    "release_year": 1999
+  },
+  {
+    "id": 15,
+    "model": "Honor X10 Max 5G",
+    "brand": "Honor",
+    "release_year": 1988
+  },
+  {
+    "id": 16,
+    "model": "T-Mobile myTouch 3G 1.2",
+    "brand": "T-Mobile",
+    "release_year": 2007
+  },
+  {
+    "id": 17,
+    "model": "Motorola A810",
+    "brand": "Motorola",
+    "release_year": 1992
+  },
+  {
+    "id": 18,
+    "model": "Motorola C113",
+    "brand": "Motorola",
+    "release_year": 2011
+  },
+  {
+    "id": 19,
+    "model": "T-Mobile Comet",
+    "brand": "T-Mobile",
+    "release_year": 2006
+  },
+  {
+    "id": 20,
+    "model": "ZTE Blade V20",
+    "brand": "ZTE",
+    "release_year": 2009
+  },
+  {
+    "id": 21,
+    "model": "BLU Studio Mega (2018)",
+    "brand": "BLU",
+    "release_year": 1993
+  },
+  {
+    "id": 22,
+    "model": "Spice S-5110",
+    "brand": "Spice",
+    "release_year": 2004
+  },
+  {
+    "id": 23,
+    "model": "Xiaomi Redmi Note 4X",
+    "brand": "Xiaomi",
+    "release_year": 1993
+  },
+  {
+    "id": 24,
+    "model": "verykool s5007 Lotus Plus",
+    "brand": "verykool",
+    "release_year": 2009
+  },
+  {
+    "id": 25,
+    "model": "HTC Dream",
+    "brand": "HTC",
+    "release_year": 1996
+  },
+  {
+    "id": 26,
+    "model": "Samsung Galaxy Tab 8.9 LTE I957",
+    "brand": "Samsung",
+    "release_year": 1991
+  },
+  {
+    "id": 27,
+    "model": "Sony Ericsson T300",
+    "brand": "Sony",
+    "release_year": 1995
+  },
+  {
+    "id": 28,
+    "model": "alcatel OT-E159",
+    "brand": "alcatel",
+    "release_year": 2001
+  },
+  {
+    "id": 29,
+    "model": "Micromax X220",
+    "brand": "Micromax",
+    "release_year": 2009
+  },
+  {
+    "id": 30,
+    "model": "Panasonic GD35",
+    "brand": "Panasonic",
+    "release_year": 1998
+  },
+  {
+    "id": 31,
+    "model": "Celkon C770N",
+    "brand": "Celkon",
+    "release_year": 1993
+  },
+  {
+    "id": 32,
+    "model": "Samsung Galaxy Tab 3 Lite 7.0",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 33,
+    "model": "verykool s732",
+    "brand": "verykool",
+    "release_year": 1999
+  },
+  {
+    "id": 34,
+    "model": "alcatel OT-E201",
+    "brand": "alcatel",
+    "release_year": 2004
+  },
+  {
+    "id": 35,
+    "model": "Sony Ericsson J230",
+    "brand": "Sony",
+    "release_year": 1995
+  },
+  {
+    "id": 36,
+    "model": "Panasonic P55 Novo",
+    "brand": "Panasonic",
+    "release_year": 1995
+  },
+  {
+    "id": 37,
+    "model": "Celkon C102",
+    "brand": "Celkon",
+    "release_year": 1994
+  },
+  {
+    "id": 38,
+    "model": "Pantech G200",
+    "brand": "Pantech",
+    "release_year": 1996
+  },
+  {
+    "id": 39,
+    "model": "Nokia 2600",
+    "brand": "Nokia",
+    "release_year": 2006
+  },
+  {
+    "id": 40,
+    "model": "Huawei nova 6",
+    "brand": "Huawei",
+    "release_year": 1997
+  },
+  {
+    "id": 41,
+    "model": "Celkon A 107+",
+    "brand": "Celkon",
+    "release_year": 1963
+  },
+  {
+    "id": 42,
+    "model": "Asus Zenfone Max Shot ZB634KL",
+    "brand": "Asus",
+    "release_year": 2007
+  },
+  {
+    "id": 43,
+    "model": "vivo X21 UD",
+    "brand": "vivo",
+    "release_year": 1993
+  },
+  {
+    "id": 44,
+    "model": "Philips X800",
+    "brand": "Philips",
+    "release_year": 2005
+  },
+  {
+    "id": 45,
+    "model": "Unnecto Air 5.0",
+    "brand": "Unnecto",
+    "release_year": 1986
+  },
+  {
+    "id": 46,
+    "model": "Motorola C350",
+    "brand": "Motorola",
+    "release_year": 1996
+  },
+  {
+    "id": 47,
+    "model": "Vodafone 533",
+    "brand": "Vodafone",
+    "release_year": 1992
+  },
+  {
+    "id": 48,
+    "model": "Amoi M636",
+    "brand": "Amoi",
+    "release_year": 1985
+  },
+  {
+    "id": 49,
+    "model": "Ericsson T29s",
+    "brand": "Ericsson",
+    "release_year": 1994
+  },
+  {
+    "id": 50,
+    "model": "HTC Velocity 4G Vodafone",
+    "brand": "HTC",
+    "release_year": 2003
+  },
+  {
+    "id": 51,
+    "model": "alcatel OT 155",
+    "brand": "alcatel",
+    "release_year": 2012
+  },
+  {
+    "id": 52,
+    "model": "Samsung P300",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 53,
+    "model": "Motorola Talkabout T2288",
+    "brand": "Motorola",
+    "release_year": 2008
+  },
+  {
+    "id": 54,
+    "model": "Nokia N97 mini",
+    "brand": "Nokia",
+    "release_year": 1994
+  },
+  {
+    "id": 55,
+    "model": "Telit SP600",
+    "brand": "Telit",
+    "release_year": 1992
+  },
+  {
+    "id": 56,
+    "model": "alcatel OT-993",
+    "brand": "alcatel",
+    "release_year": 1994
+  },
+  {
+    "id": 57,
+    "model": "Micromax H360",
+    "brand": "Micromax",
+    "release_year": 2012
+  },
+  {
+    "id": 58,
+    "model": "Meizu Zero",
+    "brand": "Meizu",
+    "release_year": 1994
+  },
+  {
+    "id": 59,
+    "model": "HTC P3400",
+    "brand": "HTC",
+    "release_year": 2012
+  },
+  {
+    "id": 60,
+    "model": "Motorola Moto E5 Play Go",
+    "brand": "Motorola",
+    "release_year": 2008
+  },
+  {
+    "id": 61,
+    "model": "QMobile Noir Z5",
+    "brand": "QMobile",
+    "release_year": 2001
+  },
+  {
+    "id": 62,
+    "model": "Asus Zenfone 4 (2014)",
+    "brand": "Asus",
+    "release_year": 1990
+  },
+  {
+    "id": 63,
+    "model": "Sony Xperia X Premium",
+    "brand": "Sony",
+    "release_year": 2004
+  },
+  {
+    "id": 64,
+    "model": "Huawei U121",
+    "brand": "Huawei",
+    "release_year": 1994
+  },
+  {
+    "id": 65,
+    "model": "BlackBerry Pearl Flip 8230",
+    "brand": "BlackBerry",
+    "release_year": 2009
+  },
+  {
+    "id": 66,
+    "model": "Motorola DEFY XT535",
+    "brand": "Motorola",
+    "release_year": 2007
+  },
+  {
+    "id": 67,
+    "model": "Lenovo IdeaPad A1",
+    "brand": "Lenovo",
+    "release_year": 1988
+  },
+  {
+    "id": 68,
+    "model": "Apple iPad Pro 12.9 (2018)",
+    "brand": "Apple",
+    "release_year": 1999
+  },
+  {
+    "id": 69,
+    "model": "QMobile Noir A550",
+    "brand": "QMobile",
+    "release_year": 1995
+  },
+  {
+    "id": 70,
+    "model": "Allview E2 Living",
+    "brand": "Allview",
+    "release_year": 1996
+  },
+  {
+    "id": 71,
+    "model": "Coolpad Max",
+    "brand": "Coolpad",
+    "release_year": 1993
+  },
+  {
+    "id": 72,
+    "model": "Samsung Galaxy Ace Duos I589",
+    "brand": "Samsung",
+    "release_year": 1992
+  },
+  {
+    "id": 73,
+    "model": "Apple iPad mini (2019)",
+    "brand": "Apple",
+    "release_year": 2001
+  },
+  {
+    "id": 74,
+    "model": "Haier V160",
+    "brand": "Haier",
+    "release_year": 1998
+  },
+  {
+    "id": 75,
+    "model": "ZTE Blade G V880G",
+    "brand": "ZTE",
+    "release_year": 1994
+  },
+  {
+    "id": 76,
+    "model": "Huawei MediaPad M5 lite",
+    "brand": "Huawei",
+    "release_year": 2011
+  },
+  {
+    "id": 77,
+    "model": "Nokia E90",
+    "brand": "Nokia",
+    "release_year": 2006
+  },
+  {
+    "id": 78,
+    "model": "XOLO Q1000 Opus",
+    "brand": "XOLO",
+    "release_year": 2013
+  },
+  {
+    "id": 79,
+    "model": "BLU Neo X LTE",
+    "brand": "BLU",
+    "release_year": 2009
+  },
+  {
+    "id": 80,
+    "model": "LG GB170",
+    "brand": "LG",
+    "release_year": 2011
+  },
+  {
+    "id": 81,
+    "model": "Sharp SE-02",
+    "brand": "Sharp",
+    "release_year": 1993
+  },
+  {
+    "id": 82,
+    "model": "Huawei U8180 IDEOS X1",
+    "brand": "Huawei",
+    "release_year": 2002
+  },
+  {
+    "id": 83,
+    "model": "Gigabyte GSmart MW998",
+    "brand": "Gigabyte",
+    "release_year": 1992
+  },
+  {
+    "id": 84,
+    "model": "Modu Phone",
+    "brand": "Modu",
+    "release_year": 2002
+  },
+  {
+    "id": 85,
+    "model": "vivo V15",
+    "brand": "vivo",
+    "release_year": 1994
+  },
+  {
+    "id": 86,
+    "model": "Celkon A359",
+    "brand": "Celkon",
+    "release_year": 1986
+  },
+  {
+    "id": 87,
+    "model": "Blackview A10",
+    "brand": "Blackview",
+    "release_year": 2001
+  },
+  {
+    "id": 88,
+    "model": "Qtek S100",
+    "brand": "Qtek",
+    "release_year": 1999
+  },
+  {
+    "id": 89,
+    "model": "Sony Xperia U",
+    "brand": "Sony",
+    "release_year": 1984
+  },
+  {
+    "id": 90,
+    "model": "Celkon A67",
+    "brand": "Celkon",
+    "release_year": 2006
+  },
+  {
+    "id": 91,
+    "model": "Xiaomi Redmi Note 5 AI Dual Camera",
+    "brand": "Xiaomi",
+    "release_year": 1996
+  },
+  {
+    "id": 92,
+    "model": "Orange Sydney",
+    "brand": "Orange",
+    "release_year": 1987
+  },
+  {
+    "id": 93,
+    "model": "LG Optimus One P500",
+    "brand": "LG",
+    "release_year": 2007
+  },
+  {
+    "id": 94,
+    "model": "LG X cam",
+    "brand": "LG",
+    "release_year": 2008
+  },
+  {
+    "id": 95,
+    "model": "Philips X1510",
+    "brand": "Philips",
+    "release_year": 2006
+  },
+  {
+    "id": 96,
+    "model": "Motorola W230",
+    "brand": "Motorola",
+    "release_year": 2010
+  },
+  {
+    "id": 97,
+    "model": "QMobile E990 Sirocco Edition",
+    "brand": "QMobile",
+    "release_year": 1995
+  },
+  {
+    "id": 98,
+    "model": "Samsung I9105 Galaxy S II Plus",
+    "brand": "Samsung",
+    "release_year": 2002
+  },
+  {
+    "id": 99,
+    "model": "alcatel OT Max db",
+    "brand": "alcatel",
+    "release_year": 2000
+  },
+  {
+    "id": 100,
+    "model": "OnePlus 8T+ 5G",
+    "brand": "OnePlus",
+    "release_year": 1983
+  },
+  {
+    "id": 101,
+    "model": "Eten glofiish X500+",
+    "brand": "Eten",
+    "release_year": 2006
+  },
+  {
+    "id": 102,
+    "model": "Yezz Monaco 47",
+    "brand": "Yezz",
+    "release_year": 2010
+  },
+  {
+    "id": 103,
+    "model": "Micromax Q66",
+    "brand": "Micromax",
+    "release_year": 2009
+  },
+  {
+    "id": 104,
+    "model": "verykool s5012 Orbit",
+    "brand": "verykool",
+    "release_year": 2011
+  },
+  {
+    "id": 105,
+    "model": "Samsung Gear 2 Neo",
+    "brand": "Samsung",
+    "release_year": 1998
+  },
+  {
+    "id": 106,
+    "model": "Samsung X700",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 107,
+    "model": "Celkon C350",
+    "brand": "Celkon",
+    "release_year": 1992
+  },
+  {
+    "id": 108,
+    "model": "Gionee F205",
+    "brand": "Gionee",
+    "release_year": 2009
+  },
+  {
+    "id": 109,
+    "model": "Allview A10 Lite 2019",
+    "brand": "Allview",
+    "release_year": 2001
+  },
+  {
+    "id": 110,
+    "model": "HTC Desire 12+",
+    "brand": "HTC",
+    "release_year": 1996
+  },
+  {
+    "id": 111,
+    "model": "vivo NEX A",
+    "brand": "vivo",
+    "release_year": 1985
+  },
+  {
+    "id": 112,
+    "model": "alcatel 5",
+    "brand": "alcatel",
+    "release_year": 2000
+  },
+  {
+    "id": 113,
+    "model": "Maxwest Orbit 3000",
+    "brand": "Maxwest",
+    "release_year": 2005
+  },
+  {
+    "id": 114,
+    "model": "Sony Tablet P",
+    "brand": "Sony",
+    "release_year": 2011
+  },
+  {
+    "id": 115,
+    "model": "Motorola RAZR MAXX",
+    "brand": "Motorola",
+    "release_year": 1987
+  },
+  {
+    "id": 116,
+    "model": "Motorola Moto Z3",
+    "brand": "Motorola",
+    "release_year": 2012
+  },
+  {
+    "id": 117,
+    "model": "Intex Aqua Star 2",
+    "brand": "Intex",
+    "release_year": 2007
+  },
+  {
+    "id": 118,
+    "model": "Oppo A31",
+    "brand": "Oppo",
+    "release_year": 2012
+  },
+  {
+    "id": 119,
+    "model": "Bird V09",
+    "brand": "Bird",
+    "release_year": 2009
+  },
+  {
+    "id": 120,
+    "model": "Samsung Galaxy Tab 2 10.1 P5110",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 121,
+    "model": "Samsung A200K Nori F",
+    "brand": "Samsung",
+    "release_year": 2000
+  },
+  {
+    "id": 122,
+    "model": "Oppo Watch",
+    "brand": "Oppo",
+    "release_year": 2008
+  },
+  {
+    "id": 123,
+    "model": "Samsung Focus",
+    "brand": "Samsung",
+    "release_year": 2009
+  },
+  {
+    "id": 124,
+    "model": "ZTE S213",
+    "brand": "ZTE",
+    "release_year": 1993
+  },
+  {
+    "id": 125,
+    "model": "Huawei Enjoy Tablet 2",
+    "brand": "Huawei",
+    "release_year": 2007
+  },
+  {
+    "id": 126,
+    "model": "Huawei P20 Pro",
+    "brand": "Huawei",
+    "release_year": 1991
+  },
+  {
+    "id": 127,
+    "model": "vivo Y15S (2015)",
+    "brand": "vivo",
+    "release_year": 1995
+  },
+  {
+    "id": 128,
+    "model": "ZTE Blade S6",
+    "brand": "ZTE",
+    "release_year": 2010
+  },
+  {
+    "id": 129,
+    "model": "Motorola Timeport L7089",
+    "brand": "Motorola",
+    "release_year": 2001
+  },
+  {
+    "id": 130,
+    "model": "Samsung Galaxy Core Lite LTE",
+    "brand": "Samsung",
+    "release_year": 1987
+  },
+  {
+    "id": 131,
+    "model": "Samsung Impact sf",
+    "brand": "Samsung",
+    "release_year": 2008
+  },
+  {
+    "id": 132,
+    "model": "LG GT500 Puccini",
+    "brand": "LG",
+    "release_year": 1994
+  },
+  {
+    "id": 133,
+    "model": "Micromax Canvas Pulse 4G E451",
+    "brand": "Micromax",
+    "release_year": 1995
+  },
+  {
+    "id": 134,
+    "model": "Innostream INNO 75",
+    "brand": "Innostream",
+    "release_year": 1997
+  },
+  {
+    "id": 135,
+    "model": "alcatel Pixi 8",
+    "brand": "alcatel",
+    "release_year": 2009
+  },
+  {
+    "id": 136,
+    "model": "ZTE Blade D6",
+    "brand": "ZTE",
+    "release_year": 1994
+  },
+  {
+    "id": 137,
+    "model": "Huawei P10 Plus",
+    "brand": "Huawei",
+    "release_year": 1994
+  },
+  {
+    "id": 138,
+    "model": "Samsung Galaxy S20 FE",
+    "brand": "Samsung",
+    "release_year": 2004
+  },
+  {
+    "id": 139,
+    "model": "Acer Liquid Z630S",
+    "brand": "Acer",
+    "release_year": 2007
+  },
+  {
+    "id": 140,
+    "model": "Coolpad Mega 3",
+    "brand": "Coolpad",
+    "release_year": 1992
+  },
+  {
+    "id": 141,
+    "model": "verykool s5017Q Dorado",
+    "brand": "verykool",
+    "release_year": 2011
+  },
+  {
+    "id": 142,
+    "model": "Samsung S3500",
+    "brand": "Samsung",
+    "release_year": 1998
+  },
+  {
+    "id": 143,
+    "model": "Samsung Galaxy Tab 3 10.1 P5220",
+    "brand": "Samsung",
+    "release_year": 2006
+  },
+  {
+    "id": 144,
+    "model": "Samsung X210",
+    "brand": "Samsung",
+    "release_year": 1993
+  },
+  {
+    "id": 145,
+    "model": "Huawei Y8p",
+    "brand": "Huawei",
+    "release_year": 2007
+  },
+  {
+    "id": 146,
+    "model": "Innostream INNO 55",
+    "brand": "Innostream",
+    "release_year": 1998
+  },
+  {
+    "id": 147,
+    "model": "BLU Tank Xtreme Pro",
+    "brand": "BLU",
+    "release_year": 1991
+  },
+  {
+    "id": 148,
+    "model": "NEC DB4000",
+    "brand": "NEC",
+    "release_year": 2012
+  },
+  {
+    "id": 149,
+    "model": "Amoi M360",
+    "brand": "Amoi",
+    "release_year": 2009
+  },
+  {
+    "id": 150,
+    "model": "Xiaomi Black Shark Helo",
+    "brand": "Xiaomi",
+    "release_year": 1988
+  },
+  {
+    "id": 151,
+    "model": "Nokia C2-06",
+    "brand": "Nokia",
+    "release_year": 2001
+  },
+  {
+    "id": 152,
+    "model": "Intex Aqua Craze",
+    "brand": "Intex",
+    "release_year": 1993
+  },
+  {
+    "id": 153,
+    "model": "ZTE Grand S Flex",
+    "brand": "ZTE",
+    "release_year": 2009
+  },
+  {
+    "id": 154,
+    "model": "Samsung C6620",
+    "brand": "Samsung",
+    "release_year": 1996
+  },
+  {
+    "id": 155,
+    "model": "Nokia 5210",
+    "brand": "Nokia",
+    "release_year": 2010
+  },
+  {
+    "id": 156,
+    "model": "Lava X28",
+    "brand": "Lava",
+    "release_year": 1996
+  },
+  {
+    "id": 157,
+    "model": "Acer beTouch E140",
+    "brand": "Acer",
+    "release_year": 1993
+  },
+  {
+    "id": 158,
+    "model": "Samsung i617 BlackJack II",
+    "brand": "Samsung",
+    "release_year": 1993
+  },
+  {
+    "id": 159,
+    "model": "Samsung S5200",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 160,
+    "model": "Spice Mi-495 Stellar Virtuoso",
+    "brand": "Spice",
+    "release_year": 2008
+  },
+  {
+    "id": 161,
+    "model": "Siemens C62",
+    "brand": "Siemens",
+    "release_year": 2004
+  },
+  {
+    "id": 162,
+    "model": "alcatel OT-813D",
+    "brand": "alcatel",
+    "release_year": 1997
+  },
+  {
+    "id": 163,
+    "model": "Allview P6 Quad",
+    "brand": "Allview",
+    "release_year": 1993
+  },
+  {
+    "id": 164,
+    "model": "Micromax Bolt D320",
+    "brand": "Micromax",
+    "release_year": 2002
+  },
+  {
+    "id": 165,
+    "model": "LG U880",
+    "brand": "LG",
+    "release_year": 1994
+  },
+  {
+    "id": 166,
+    "model": "alcatel OT-992D",
+    "brand": "alcatel",
+    "release_year": 1999
+  },
+  {
+    "id": 167,
+    "model": "Motorola Admiral XT603",
+    "brand": "Motorola",
+    "release_year": 2008
+  },
+  {
+    "id": 168,
+    "model": "Spice M-5390 Boss Double XL",
+    "brand": "Spice",
+    "release_year": 2003
+  },
+  {
+    "id": 169,
+    "model": "Huawei Y7 Pro (2019)",
+    "brand": "Huawei",
+    "release_year": 1997
+  },
+  {
+    "id": 170,
+    "model": "Icemobile Prime 4.0",
+    "brand": "Icemobile",
+    "release_year": 1998
+  },
+  {
+    "id": 171,
+    "model": "Nokia Oro",
+    "brand": "Nokia",
+    "release_year": 2004
+  },
+  {
+    "id": 172,
+    "model": "Asus Zenfone 3 Zoom ZE553KL",
+    "brand": "Asus",
+    "release_year": 2008
+  },
+  {
+    "id": 173,
+    "model": "alcatel Fierce 4",
+    "brand": "alcatel",
+    "release_year": 2008
+  },
+  {
+    "id": 174,
+    "model": "Amoi A211",
+    "brand": "Amoi",
+    "release_year": 1996
+  },
+  {
+    "id": 175,
+    "model": "Samsung Galaxy A3 Duos",
+    "brand": "Samsung",
+    "release_year": 2001
+  },
+  {
+    "id": 176,
+    "model": "iNQ Mini 3G",
+    "brand": "iNQ",
+    "release_year": 2013
+  },
+  {
+    "id": 177,
+    "model": "Motorola DROID Maxx",
+    "brand": "Motorola",
+    "release_year": 2003
+  },
+  {
+    "id": 178,
+    "model": "Allview Simply S5",
+    "brand": "Allview",
+    "release_year": 1994
+  },
+  {
+    "id": 179,
+    "model": "Nokia 207",
+    "brand": "Nokia",
+    "release_year": 2001
+  },
+  {
+    "id": 180,
+    "model": "Gionee P12",
+    "brand": "Gionee",
+    "release_year": 1997
+  },
+  {
+    "id": 181,
+    "model": "i-mobile 5230",
+    "brand": "i-mobile",
+    "release_year": 2010
+  },
+  {
+    "id": 182,
+    "model": "QMobile Noir S1",
+    "brand": "QMobile",
+    "release_year": 2006
+  },
+  {
+    "id": 183,
+    "model": "ZTE Axon 7",
+    "brand": "ZTE",
+    "release_year": 1992
+  },
+  {
+    "id": 184,
+    "model": "Micromax X352",
+    "brand": "Micromax",
+    "release_year": 2012
+  },
+  {
+    "id": 185,
+    "model": "Celkon C619",
+    "brand": "Celkon",
+    "release_year": 2013
+  },
+  {
+    "id": 186,
+    "model": "Sony Xperia XA2",
+    "brand": "Sony",
+    "release_year": 2007
+  },
+  {
+    "id": 187,
+    "model": "Lenovo K5 play",
+    "brand": "Lenovo",
+    "release_year": 1996
+  },
+  {
+    "id": 188,
+    "model": "Sagem MY C-5w",
+    "brand": "Sagem",
+    "release_year": 2012
+  },
+  {
+    "id": 189,
+    "model": "Samsung C3782 Evan",
+    "brand": "Samsung",
+    "release_year": 1990
+  },
+  {
+    "id": 190,
+    "model": "Panasonic A100 Series",
+    "brand": "Panasonic",
+    "release_year": 2006
+  },
+  {
+    "id": 191,
+    "model": "alcatel OT-668",
+    "brand": "alcatel",
+    "release_year": 2012
+  },
+  {
+    "id": 192,
+    "model": "Samsung Galaxy Tab 4 8.0",
+    "brand": "Samsung",
+    "release_year": 2004
+  },
+  {
+    "id": 193,
+    "model": "Celkon C607",
+    "brand": "Celkon",
+    "release_year": 1996
+  },
+  {
+    "id": 194,
+    "model": "ZTE Blade 20 Pro 5G",
+    "brand": "ZTE",
+    "release_year": 1990
+  },
+  {
+    "id": 195,
+    "model": "Samsung E690",
+    "brand": "Samsung",
+    "release_year": 2004
+  },
+  {
+    "id": 196,
+    "model": "Micromax Canvas Evok E483",
+    "brand": "Micromax",
+    "release_year": 2002
+  },
+  {
+    "id": 197,
+    "model": "BLU Tattoo Mini",
+    "brand": "BLU",
+    "release_year": 1999
+  },
+  {
+    "id": 198,
+    "model": "LG U880",
+    "brand": "LG",
+    "release_year": 2001
+  },
+  {
+    "id": 199,
+    "model": "alcatel OT-600",
+    "brand": "alcatel",
+    "release_year": 2009
+  },
+  {
+    "id": 200,
+    "model": "Xiaomi Mi Note Pro",
+    "brand": "Xiaomi",
+    "release_year": 1995
+  },
+  {
+    "id": 201,
+    "model": "Sharp GX10i",
+    "brand": "Sharp",
+    "release_year": 2006
+  },
+  {
+    "id": 202,
+    "model": "vivo S6 5G",
+    "brand": "vivo",
+    "release_year": 2001
+  },
+  {
+    "id": 203,
+    "model": "Samsung Galaxy On6",
+    "brand": "Samsung",
+    "release_year": 2011
+  },
+  {
+    "id": 204,
+    "model": "Lenovo IdeaPad K1",
+    "brand": "Lenovo",
+    "release_year": 1988
+  },
+  {
+    "id": 205,
+    "model": "Ericsson GH 388",
+    "brand": "Ericsson",
+    "release_year": 2008
+  },
+  {
+    "id": 206,
+    "model": "LG GX200",
+    "brand": "LG",
+    "release_year": 1987
+  },
+  {
+    "id": 207,
+    "model": "Samsung M110S Galaxy S",
+    "brand": "Samsung",
+    "release_year": 1991
+  },
+  {
+    "id": 208,
+    "model": "T-Mobile Sidekick 4G",
+    "brand": "T-Mobile",
+    "release_year": 2001
+  },
+  {
+    "id": 209,
+    "model": "alcatel OT-V670",
+    "brand": "alcatel",
+    "release_year": 2008
+  },
+  {
+    "id": 210,
+    "model": "Sagem MC 939 WAP",
+    "brand": "Sagem",
+    "release_year": 1995
+  },
+  {
+    "id": 211,
+    "model": "Micromax Canvas Selfie 3 Q460",
+    "brand": "Micromax",
+    "release_year": 2004
+  },
+  {
+    "id": 212,
+    "model": "Huawei Enjoy 10",
+    "brand": "Huawei",
+    "release_year": 1990
+  },
+  {
+    "id": 213,
+    "model": "Nokia 3.1 Plus",
+    "brand": "Nokia",
+    "release_year": 1998
+  },
+  {
+    "id": 214,
+    "model": "Nokia N92",
+    "brand": "Nokia",
+    "release_year": 2005
+  },
+  {
+    "id": 215,
+    "model": "Honor 6",
+    "brand": "Honor",
+    "release_year": 1993
+  },
+  {
+    "id": 216,
+    "model": "Asus Zenfone 4 Max Plus ZC554KL",
+    "brand": "Asus",
+    "release_year": 1986
+  },
+  {
+    "id": 217,
+    "model": "Lenovo A Plus",
+    "brand": "Lenovo",
+    "release_year": 2001
+  },
+  {
+    "id": 218,
+    "model": "Huawei MediaPad T2 10.0 Pro",
+    "brand": "Huawei",
+    "release_year": 1992
+  },
+  {
+    "id": 219,
+    "model": "LG V30S ThinQ",
+    "brand": "LG",
+    "release_year": 2010
+  },
+  {
+    "id": 220,
+    "model": "Haier N90",
+    "brand": "Haier",
+    "release_year": 2011
+  },
+  {
+    "id": 221,
+    "model": "Philips X2301",
+    "brand": "Philips",
+    "release_year": 2001
+  },
+  {
+    "id": 222,
+    "model": "Orange San Diego",
+    "brand": "Orange",
+    "release_year": 1991
+  },
+  {
+    "id": 223,
+    "model": "Nokia 5730 XpressMusic",
+    "brand": "Nokia",
+    "release_year": 2011
+  },
+  {
+    "id": 224,
+    "model": "Samsung M570 Restore",
+    "brand": "Samsung",
+    "release_year": 2007
+  },
+  {
+    "id": 225,
+    "model": "LG Xpression C395",
+    "brand": "LG",
+    "release_year": 2004
+  },
+  {
+    "id": 226,
+    "model": "Parla Sonic 3.5S",
+    "brand": "Parla",
+    "release_year": 2002
+  },
+  {
+    "id": 227,
+    "model": "VK Mobile VK300",
+    "brand": "VK",
+    "release_year": 2011
+  },
+  {
+    "id": 228,
+    "model": "Nokia 6230i",
+    "brand": "Nokia",
+    "release_year": 1999
+  },
+  {
+    "id": 229,
+    "model": "Sony Ericsson P910",
+    "brand": "Sony",
+    "release_year": 2009
+  },
+  {
+    "id": 230,
+    "model": "ZTE nubia Z17 miniS",
+    "brand": "ZTE",
+    "release_year": 2006
+  },
+  {
+    "id": 231,
+    "model": "LG HB620T",
+    "brand": "LG",
+    "release_year": 2004
+  },
+  {
+    "id": 232,
+    "model": "Sony Xperia Tablet S",
+    "brand": "Sony",
+    "release_year": 2008
+  },
+  {
+    "id": 233,
+    "model": "HTC P3400",
+    "brand": "HTC",
+    "release_year": 2006
+  },
+  {
+    "id": 234,
+    "model": "Prestigio MultiPhone 5300 Duo",
+    "brand": "Prestigio",
+    "release_year": 1998
+  },
+  {
+    "id": 235,
+    "model": "alcatel OT-E205",
+    "brand": "alcatel",
+    "release_year": 2005
+  },
+  {
+    "id": 236,
+    "model": "Samsung Galaxy J2",
+    "brand": "Samsung",
+    "release_year": 2007
+  },
+  {
+    "id": 237,
+    "model": "Honor X10 5G",
+    "brand": "Honor",
+    "release_year": 1999
+  },
+  {
+    "id": 238,
+    "model": "LG Vu Plus",
+    "brand": "LG",
+    "release_year": 1999
+  },
+  {
+    "id": 239,
+    "model": "Motorola XOOM Media Edition MZ505",
+    "brand": "Motorola",
+    "release_year": 1990
+  },
+  {
+    "id": 240,
+    "model": "Nokia 2680 slide",
+    "brand": "Nokia",
+    "release_year": 2010
+  },
+  {
+    "id": 241,
+    "model": "Sony Xperia acro HD SOI12",
+    "brand": "Sony",
+    "release_year": 2000
+  },
+  {
+    "id": 242,
+    "model": "Samsung C3730C",
+    "brand": "Samsung",
+    "release_year": 1988
+  },
+  {
+    "id": 243,
+    "model": "alcatel OT-V270",
+    "brand": "alcatel",
+    "release_year": 2007
+  },
+  {
+    "id": 244,
+    "model": "Innostream INNO 75",
+    "brand": "Innostream",
+    "release_year": 2007
+  },
+  {
+    "id": 245,
+    "model": "alcatel OT-810D",
+    "brand": "alcatel",
+    "release_year": 2004
+  },
+  {
+    "id": 246,
+    "model": "Mitac MIO Explora K70",
+    "brand": "Mitac",
+    "release_year": 1996
+  },
+  {
+    "id": 247,
+    "model": "Prestigio MultiPad 7.0 Ultra +",
+    "brand": "Prestigio",
+    "release_year": 1992
+  },
+  {
+    "id": 248,
+    "model": "Celkon 2GB Xpress",
+    "brand": "Celkon",
+    "release_year": 2011
+  },
+  {
+    "id": 249,
+    "model": "Samsung F250",
+    "brand": "Samsung",
+    "release_year": 1997
+  },
+  {
+    "id": 250,
+    "model": "Nokia E51",
+    "brand": "Nokia",
+    "release_year": 2009
+  },
+  {
+    "id": 251,
+    "model": "HP iPAQ h6310",
+    "brand": "HP",
+    "release_year": 1996
+  },
+  {
+    "id": 252,
+    "model": "Lenovo S650",
+    "brand": "Lenovo",
+    "release_year": 2010
+  },
+  {
+    "id": 253,
+    "model": "vivo V19",
+    "brand": "vivo",
+    "release_year": 2001
+  },
+  {
+    "id": 254,
+    "model": "Sony Ericsson Jalou D&G edition",
+    "brand": "Sony",
+    "release_year": 2011
+  },
+  {
+    "id": 255,
+    "model": "Realme XT 730G",
+    "brand": "Realme",
+    "release_year": 1992
+  },
+  {
+    "id": 256,
+    "model": "Orange Rio",
+    "brand": "Orange",
+    "release_year": 2011
+  },
+  {
+    "id": 257,
+    "model": "Samsung Galaxy Xcover 4",
+    "brand": "Samsung",
+    "release_year": 2006
+  },
+  {
+    "id": 258,
+    "model": "Amoi E78",
+    "brand": "Amoi",
+    "release_year": 2000
+  },
+  {
+    "id": 259,
+    "model": "Nokia 6",
+    "brand": "Nokia",
+    "release_year": 2010
+  },
+  {
+    "id": 260,
+    "model": "Motorola GLEAM+ WX308",
+    "brand": "Motorola",
+    "release_year": 1995
+  },
+  {
+    "id": 261,
+    "model": "Nokia 3310 4G",
+    "brand": "Nokia",
+    "release_year": 2012
+  },
+  {
+    "id": 262,
+    "model": "Motorola Electrify 2 XT881",
+    "brand": "Motorola",
+    "release_year": 1992
+  },
+  {
+    "id": 263,
+    "model": "Asus Zenfone Go ZB551KL",
+    "brand": "Asus",
+    "release_year": 2012
+  },
+  {
+    "id": 264,
+    "model": "Allview Viva H7 LTE",
+    "brand": "Allview",
+    "release_year": 2001
+  },
+  {
+    "id": 265,
+    "model": "Sharp 825SH",
+    "brand": "Sharp",
+    "release_year": 1984
+  },
+  {
+    "id": 266,
+    "model": "Nokia X71",
+    "brand": "Nokia",
+    "release_year": 2002
+  },
+  {
+    "id": 267,
+    "model": "vivo X50e",
+    "brand": "vivo",
+    "release_year": 1998
+  },
+  {
+    "id": 268,
+    "model": "Xiaomi Black Shark 2",
+    "brand": "Xiaomi",
+    "release_year": 2009
+  },
+  {
+    "id": 269,
+    "model": "alcatel OT-E105",
+    "brand": "alcatel",
+    "release_year": 2001
+  },
+  {
+    "id": 270,
+    "model": "Samsung P960",
+    "brand": "Samsung",
+    "release_year": 2000
+  },
+  {
+    "id": 271,
+    "model": "Asus M530w",
+    "brand": "Asus",
+    "release_year": 1993
+  },
+  {
+    "id": 272,
+    "model": "Lenovo IdeaPad K1",
+    "brand": "Lenovo",
+    "release_year": 2001
+  },
+  {
+    "id": 273,
+    "model": "Nokia 8910i",
+    "brand": "Nokia",
+    "release_year": 2001
+  },
+  {
+    "id": 274,
+    "model": "Acer Liquid Z5",
+    "brand": "Acer",
+    "release_year": 2000
+  },
+  {
+    "id": 275,
+    "model": "Philips W930",
+    "brand": "Philips",
+    "release_year": 1999
+  },
+  {
+    "id": 276,
+    "model": "Micromax A92",
+    "brand": "Micromax",
+    "release_year": 2007
+  },
+  {
+    "id": 277,
+    "model": "XOLO A700s",
+    "brand": "XOLO",
+    "release_year": 1996
+  },
+  {
+    "id": 278,
+    "model": "LG Optimus Black P970",
+    "brand": "LG",
+    "release_year": 1988
+  },
+  {
+    "id": 279,
+    "model": "Orange Atlanta",
+    "brand": "Orange",
+    "release_year": 2005
+  },
+  {
+    "id": 280,
+    "model": "Sony Ericsson K700",
+    "brand": "Sony",
+    "release_year": 1995
+  },
+  {
+    "id": 281,
+    "model": "Gigabyte GSmart G1315 Skate",
+    "brand": "Gigabyte",
+    "release_year": 2003
+  },
+  {
+    "id": 282,
+    "model": "vivo Z3x",
+    "brand": "vivo",
+    "release_year": 2002
+  },
+  {
+    "id": 283,
+    "model": "BenQ-Siemens S88",
+    "brand": "BenQ-Siemens",
+    "release_year": 2002
+  },
+  {
+    "id": 284,
+    "model": "Micromax A76",
+    "brand": "Micromax",
+    "release_year": 1992
+  },
+  {
+    "id": 285,
+    "model": "LeEco Le S3",
+    "brand": "LeEco",
+    "release_year": 1992
+  },
+  {
+    "id": 286,
+    "model": "HTC Butterfly 2",
+    "brand": "HTC",
+    "release_year": 1990
+  },
+  {
+    "id": 287,
+    "model": "Archos Diamond Plus",
+    "brand": "Archos",
+    "release_year": 2001
+  },
+  {
+    "id": 288,
+    "model": "NEC DB6000",
+    "brand": "NEC",
+    "release_year": 1998
+  },
+  {
+    "id": 289,
+    "model": "Gigabyte GSmart Essence 4",
+    "brand": "Gigabyte",
+    "release_year": 1987
+  },
+  {
+    "id": 290,
+    "model": "Ulefone Armor 7",
+    "brand": "Ulefone",
+    "release_year": 1985
+  },
+  {
+    "id": 291,
+    "model": "Oppo R7 Plus",
+    "brand": "Oppo",
+    "release_year": 2007
+  },
+  {
+    "id": 292,
+    "model": "Samsung X630",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 293,
+    "model": "Samsung P510",
+    "brand": "Samsung",
+    "release_year": 1980
+  },
+  {
+    "id": 294,
+    "model": "NEC Terrain",
+    "brand": "NEC",
+    "release_year": 2010
+  },
+  {
+    "id": 295,
+    "model": "Samsung Galaxy E7",
+    "brand": "Samsung",
+    "release_year": 1993
+  },
+  {
+    "id": 296,
+    "model": "alcatel 1S (2020)",
+    "brand": "alcatel",
+    "release_year": 2006
+  },
+  {
+    "id": 297,
+    "model": "Samsung F500",
+    "brand": "Samsung",
+    "release_year": 1995
+  },
+  {
+    "id": 298,
+    "model": "Micromax X276",
+    "brand": "Micromax",
+    "release_year": 1999
+  },
+  {
+    "id": 299,
+    "model": "BLU Studio G Max",
+    "brand": "BLU",
+    "release_year": 2005
+  },
+  {
+    "id": 300,
+    "model": "alcatel OT-S520",
+    "brand": "alcatel",
+    "release_year": 1985
+  },
+  {
+    "id": 301,
+    "model": "Posh Equal Plus X700",
+    "brand": "Posh",
+    "release_year": 2006
+  },
+  {
+    "id": 302,
+    "model": "Sendo S1",
+    "brand": "Sendo",
+    "release_year": 2000
+  },
+  {
+    "id": 303,
+    "model": "Samsung Galaxy S II LTE i727R",
+    "brand": "Samsung",
+    "release_year": 1967
+  },
+  {
+    "id": 304,
+    "model": "Panasonic P90",
+    "brand": "Panasonic",
+    "release_year": 1993
+  },
+  {
+    "id": 305,
+    "model": "alcatel Pixi 3 (5.5) LTE",
+    "brand": "alcatel",
+    "release_year": 1990
+  },
+  {
+    "id": 306,
+    "model": "alcatel 1c (2019)",
+    "brand": "alcatel",
+    "release_year": 2004
+  },
+  {
+    "id": 307,
+    "model": "LG KM555E",
+    "brand": "LG",
+    "release_year": 1997
+  },
+  {
+    "id": 308,
+    "model": "Posh Primo Plus C353",
+    "brand": "Posh",
+    "release_year": 1998
+  },
+  {
+    "id": 309,
+    "model": "Ulefone Watch Pro",
+    "brand": "Ulefone",
+    "release_year": 2003
+  },
+  {
+    "id": 310,
+    "model": "Telit T510",
+    "brand": "Telit",
+    "release_year": 2002
+  },
+  {
+    "id": 311,
+    "model": "Samsung i617 BlackJack II",
+    "brand": "Samsung",
+    "release_year": 1994
+  },
+  {
+    "id": 312,
+    "model": "Samsung B200",
+    "brand": "Samsung",
+    "release_year": 1993
+  },
+  {
+    "id": 313,
+    "model": "Micromax X322",
+    "brand": "Micromax",
+    "release_year": 1997
+  },
+  {
+    "id": 314,
+    "model": "NEC N630",
+    "brand": "NEC",
+    "release_year": 2008
+  },
+  {
+    "id": 315,
+    "model": "Icemobile Fuego",
+    "brand": "Icemobile",
+    "release_year": 2010
+  },
+  {
+    "id": 316,
+    "model": "Samsung Galaxy A51",
+    "brand": "Samsung",
+    "release_year": 2009
+  },
+  {
+    "id": 317,
+    "model": "Samsung A887 Solstice",
+    "brand": "Samsung",
+    "release_year": 2001
+  },
+  {
+    "id": 318,
+    "model": "Xiaomi Mi 9T Pro",
+    "brand": "Xiaomi",
+    "release_year": 1993
+  },
+  {
+    "id": 319,
+    "model": "Huawei Y9a",
+    "brand": "Huawei",
+    "release_year": 1996
+  },
+  {
+    "id": 320,
+    "model": "Huawei MediaPad T1 10",
+    "brand": "Huawei",
+    "release_year": 2006
+  },
+  {
+    "id": 321,
+    "model": "Xiaomi Redmi Note 3",
+    "brand": "Xiaomi",
+    "release_year": 2009
+  },
+  {
+    "id": 322,
+    "model": "Telit T510",
+    "brand": "Telit",
+    "release_year": 2007
+  },
+  {
+    "id": 323,
+    "model": "LeEco Le Max 2",
+    "brand": "LeEco",
+    "release_year": 1996
+  },
+  {
+    "id": 324,
+    "model": "alcatel One Touch Tab 7",
+    "brand": "alcatel",
+    "release_year": 1990
+  },
+  {
+    "id": 325,
+    "model": "Huawei Ascend G615",
+    "brand": "Huawei",
+    "release_year": 2008
+  },
+  {
+    "id": 326,
+    "model": "Nokia 5500 Sport",
+    "brand": "Nokia",
+    "release_year": 2012
+  },
+  {
+    "id": 327,
+    "model": "Innostream INNO 78",
+    "brand": "Innostream",
+    "release_year": 2012
+  },
+  {
+    "id": 328,
+    "model": "XOLO Play 8X-1100",
+    "brand": "XOLO",
+    "release_year": 1999
+  },
+  {
+    "id": 329,
+    "model": "Plum Trigger Plus III",
+    "brand": "Plum",
+    "release_year": 2006
+  },
+  {
+    "id": 330,
+    "model": "OnePlus 6",
+    "brand": "OnePlus",
+    "release_year": 2009
+  },
+  {
+    "id": 331,
+    "model": "Honor 20",
+    "brand": "Honor",
+    "release_year": 1993
+  },
+  {
+    "id": 332,
+    "model": "vivo S5",
+    "brand": "vivo",
+    "release_year": 2010
+  },
+  {
+    "id": 333,
+    "model": "Gionee Ctrl V2",
+    "brand": "Gionee",
+    "release_year": 1995
+  },
+  {
+    "id": 334,
+    "model": "HTC Desire Eye",
+    "brand": "HTC",
+    "release_year": 2000
+  },
+  {
+    "id": 335,
+    "model": "Nokia 107 Dual SIM",
+    "brand": "Nokia",
+    "release_year": 2010
+  },
+  {
+    "id": 336,
+    "model": "Apple iPad Pro 12.9 (2018)",
+    "brand": "Apple",
+    "release_year": 1985
+  },
+  {
+    "id": 337,
+    "model": "Micromax Bharat 3 Q437",
+    "brand": "Micromax",
+    "release_year": 1983
+  },
+  {
+    "id": 338,
+    "model": "Samsung S400i",
+    "brand": "Samsung",
+    "release_year": 1994
+  },
+  {
+    "id": 339,
+    "model": "vivo S1 (China)",
+    "brand": "vivo",
+    "release_year": 2000
+  },
+  {
+    "id": 340,
+    "model": "Prestigio MultiPad 2 Ultra Duo 8.0 3G",
+    "brand": "Prestigio",
+    "release_year": 1988
+  },
+  {
+    "id": 341,
+    "model": "Maxwest Orbit 4400",
+    "brand": "Maxwest",
+    "release_year": 2006
+  },
+  {
+    "id": 342,
+    "model": "Sony Ericsson T270",
+    "brand": "Sony",
+    "release_year": 2006
+  },
+  {
+    "id": 343,
+    "model": "Lava Z4",
+    "brand": "Lava",
+    "release_year": 2003
+  },
+  {
+    "id": 344,
+    "model": "VK Mobile VK200",
+    "brand": "VK",
+    "release_year": 1998
+  },
+  {
+    "id": 345,
+    "model": "Motorola Moto G8 Power Lite",
+    "brand": "Motorola",
+    "release_year": 2000
+  },
+  {
+    "id": 346,
+    "model": "Xiaomi Poco X3 NFC",
+    "brand": "Xiaomi",
+    "release_year": 1996
+  },
+  {
+    "id": 347,
+    "model": "Haier G7",
+    "brand": "Haier",
+    "release_year": 2007
+  },
+  {
+    "id": 348,
+    "model": "Wiko Ridge Fab 4G",
+    "brand": "Wiko",
+    "release_year": 1970
+  },
+  {
+    "id": 349,
+    "model": "ZTE Racer II",
+    "brand": "ZTE",
+    "release_year": 1996
+  },
+  {
+    "id": 350,
+    "model": "Eten glofiish X600",
+    "brand": "Eten",
+    "release_year": 1993
+  },
+  {
+    "id": 351,
+    "model": "LG B2070",
+    "brand": "LG",
+    "release_year": 2007
+  },
+  {
+    "id": 352,
+    "model": "Micromax Canvas Tab P666",
+    "brand": "Micromax",
+    "release_year": 2010
+  },
+  {
+    "id": 353,
+    "model": "Samsung Galaxy Xcover FieldPro",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 354,
+    "model": "Honor 3C",
+    "brand": "Honor",
+    "release_year": 2002
+  },
+  {
+    "id": 355,
+    "model": "Samsung Galaxy Pocket Neo S5310",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 356,
+    "model": "BlackBerry Bold 9700",
+    "brand": "BlackBerry",
+    "release_year": 2011
+  },
+  {
+    "id": 357,
+    "model": "Asus Zenpad 10 Z300C",
+    "brand": "Asus",
+    "release_year": 2009
+  },
+  {
+    "id": 358,
+    "model": "Panasonic P9",
+    "brand": "Panasonic",
+    "release_year": 2002
+  },
+  {
+    "id": 359,
+    "model": "Motorola E360",
+    "brand": "Motorola",
+    "release_year": 2011
+  },
+  {
+    "id": 360,
+    "model": "Motorola Motosmart Me XT303",
+    "brand": "Motorola",
+    "release_year": 2005
+  },
+  {
+    "id": 361,
+    "model": "Samsung I8530 Galaxy Beam",
+    "brand": "Samsung",
+    "release_year": 1999
+  },
+  {
+    "id": 362,
+    "model": "Lenovo IdeaPad S2",
+    "brand": "Lenovo",
+    "release_year": 2013
+  },
+  {
+    "id": 363,
+    "model": "BLU Samba Mini",
+    "brand": "BLU",
+    "release_year": 2013
+  },
+  {
+    "id": 364,
+    "model": "Honor 10",
+    "brand": "Honor",
+    "release_year": 2008
+  },
+  {
+    "id": 365,
+    "model": "Oppo A72",
+    "brand": "Oppo",
+    "release_year": 2002
+  },
+  {
+    "id": 366,
+    "model": "vivo X30",
+    "brand": "vivo",
+    "release_year": 1998
+  },
+  {
+    "id": 367,
+    "model": "Micromax Canvas Pep Q371",
+    "brand": "Micromax",
+    "release_year": 1995
+  },
+  {
+    "id": 368,
+    "model": "Oppo A59",
+    "brand": "Oppo",
+    "release_year": 2000
+  },
+  {
+    "id": 369,
+    "model": "BLU Vivo 5 Mini",
+    "brand": "BLU",
+    "release_year": 1996
+  },
+  {
+    "id": 370,
+    "model": "BLU Studio J8",
+    "brand": "BLU",
+    "release_year": 2008
+  },
+  {
+    "id": 371,
+    "model": "Realme 7i",
+    "brand": "Realme",
+    "release_year": 2007
+  },
+  {
+    "id": 372,
+    "model": "Celkon C720",
+    "brand": "Celkon",
+    "release_year": 2010
+  },
+  {
+    "id": 373,
+    "model": "Motorola Moto G Fast",
+    "brand": "Motorola",
+    "release_year": 2012
+  },
+  {
+    "id": 374,
+    "model": "Celkon A500",
+    "brand": "Celkon",
+    "release_year": 1993
+  },
+  {
+    "id": 375,
+    "model": "vivo iQOO Neo",
+    "brand": "vivo",
+    "release_year": 2004
+  },
+  {
+    "id": 376,
+    "model": "Unnecto Swift",
+    "brand": "Unnecto",
+    "release_year": 1976
+  },
+  {
+    "id": 377,
+    "model": "Samsung S5230W Star WiFi",
+    "brand": "Samsung",
+    "release_year": 1998
+  },
+  {
+    "id": 378,
+    "model": "LG KF900 Prada",
+    "brand": "LG",
+    "release_year": 1986
+  },
+  {
+    "id": 379,
+    "model": "Lava X41 Plus",
+    "brand": "Lava",
+    "release_year": 2002
+  },
+  {
+    "id": 380,
+    "model": "Haier L1000",
+    "brand": "Haier",
+    "release_year": 2006
+  },
+  {
+    "id": 381,
+    "model": "Sony Xperia E5",
+    "brand": "Sony",
+    "release_year": 2002
+  },
+  {
+    "id": 382,
+    "model": "Xiaomi Redmi Watch",
+    "brand": "Xiaomi",
+    "release_year": 2006
+  },
+  {
+    "id": 383,
+    "model": "Allview X3 Soul mini",
+    "brand": "Allview",
+    "release_year": 2012
+  },
+  {
+    "id": 384,
+    "model": "Honor Watch ES",
+    "brand": "Honor",
+    "release_year": 2002
+  },
+  {
+    "id": 385,
+    "model": "Samsung C140",
+    "brand": "Samsung",
+    "release_year": 2006
+  },
+  {
+    "id": 386,
+    "model": "Panasonic VS7",
+    "brand": "Panasonic",
+    "release_year": 2013
+  },
+  {
+    "id": 387,
+    "model": "Nokia 7.1",
+    "brand": "Nokia",
+    "release_year": 1992
+  },
+  {
+    "id": 388,
+    "model": "vivo X6Plus",
+    "brand": "vivo",
+    "release_year": 2012
+  },
+  {
+    "id": 389,
+    "model": "Nokia 3350",
+    "brand": "Nokia",
+    "release_year": 2008
+  },
+  {
+    "id": 390,
+    "model": "Samsung Array M390",
+    "brand": "Samsung",
+    "release_year": 1998
+  },
+  {
+    "id": 391,
+    "model": "alcatel OT-222",
+    "brand": "alcatel",
+    "release_year": 1994
+  },
+  {
+    "id": 392,
+    "model": "Motorola V.box(V100)",
+    "brand": "Motorola",
+    "release_year": 2010
+  },
+  {
+    "id": 393,
+    "model": "Nokia 9.3 PureView",
+    "brand": "Nokia",
+    "release_year": 1998
+  },
+  {
+    "id": 394,
+    "model": "Samsung Galaxy Core Plus",
+    "brand": "Samsung",
+    "release_year": 2005
+  },
+  {
+    "id": 395,
+    "model": "LG KG280",
+    "brand": "LG",
+    "release_year": 2001
+  },
+  {
+    "id": 396,
+    "model": "BLU Dash L4",
+    "brand": "BLU",
+    "release_year": 2002
+  },
+  {
+    "id": 397,
+    "model": "Samsung Galaxy S5 (octa-core)",
+    "brand": "Samsung",
+    "release_year": 2007
+  },
+  {
+    "id": 398,
+    "model": "QMobile Noir X500",
+    "brand": "QMobile",
+    "release_year": 1992
+  },
+  {
+    "id": 399,
+    "model": "HTC Dream",
+    "brand": "HTC",
+    "release_year": 2009
+  },
+  {
+    "id": 400,
+    "model": "Motorola A388c",
+    "brand": "Motorola",
+    "release_year": 2008
+  },
+  {
+    "id": 401,
+    "model": "verykool i128",
+    "brand": "verykool",
+    "release_year": 2008
+  },
+  {
+    "id": 402,
+    "model": "Motorola E378i",
+    "brand": "Motorola",
+    "release_year": 2000
+  },
+  {
+    "id": 403,
+    "model": "LG KG300",
+    "brand": "LG",
+    "release_year": 2001
+  },
+  {
+    "id": 404,
+    "model": "Xiaomi Redmi 9 (India)",
+    "brand": "Xiaomi",
+    "release_year": 2004
+  },
+  {
+    "id": 405,
+    "model": "Philips 639",
+    "brand": "Philips",
+    "release_year": 2012
+  },
+  {
+    "id": 406,
+    "model": "HP Pre 3 CDMA",
+    "brand": "HP",
+    "release_year": 1996
+  },
+  {
+    "id": 407,
+    "model": "alcatel OT-S120",
+    "brand": "alcatel",
+    "release_year": 1989
+  },
+  {
+    "id": 408,
+    "model": "Qtek S100",
+    "brand": "Qtek",
+    "release_year": 1999
+  },
+  {
+    "id": 409,
+    "model": "Siemens AL21",
+    "brand": "Siemens",
+    "release_year": 1992
+  },
+  {
+    "id": 410,
+    "model": "Acer Liquid E600",
+    "brand": "Acer",
+    "release_year": 1995
+  },
+  {
+    "id": 411,
+    "model": "Samsung Galaxy Tab J",
+    "brand": "Samsung",
+    "release_year": 1996
+  },
+  {
+    "id": 412,
+    "model": "Maxon MX-C110",
+    "brand": "Maxon",
+    "release_year": 2009
+  },
+  {
+    "id": 413,
+    "model": "Motorola C118",
+    "brand": "Motorola",
+    "release_year": 2011
+  },
+  {
+    "id": 414,
+    "model": "Sagem MC 912",
+    "brand": "Sagem",
+    "release_year": 1993
+  },
+  {
+    "id": 415,
+    "model": "Oppo Find",
+    "brand": "Oppo",
+    "release_year": 2007
+  },
+  {
+    "id": 416,
+    "model": "Sharp 902",
+    "brand": "Sharp",
+    "release_year": 1999
+  },
+  {
+    "id": 417,
+    "model": "BlackBerry Pearl Flip 8220",
+    "brand": "BlackBerry",
+    "release_year": 1996
+  },
+  {
+    "id": 418,
+    "model": "LG L65 Dual D285",
+    "brand": "LG",
+    "release_year": 2009
+  },
+  {
+    "id": 419,
+    "model": "Samsung A927 Flight II",
+    "brand": "Samsung",
+    "release_year": 2012
+  },
+  {
+    "id": 420,
+    "model": "Samsung Galaxy M01s",
+    "brand": "Samsung",
+    "release_year": 1994
+  },
+  {
+    "id": 421,
+    "model": "LG A395",
+    "brand": "LG",
+    "release_year": 1994
+  },
+  {
+    "id": 422,
+    "model": "Samsung B3210 CorbyTXT",
+    "brand": "Samsung",
+    "release_year": 2008
+  },
+  {
+    "id": 423,
+    "model": "Philips Xenium X501",
+    "brand": "Philips",
+    "release_year": 1993
+  },
+  {
+    "id": 424,
+    "model": "verykool Kolorpad LTE TL8010",
+    "brand": "verykool",
+    "release_year": 1990
+  },
+  {
+    "id": 425,
+    "model": "BlackBerry Classic",
+    "brand": "BlackBerry",
+    "release_year": 2003
+  },
+  {
+    "id": 426,
+    "model": "vivo U10",
+    "brand": "vivo",
+    "release_year": 2005
+  },
+  {
+    "id": 427,
+    "model": "Sony Ericsson K508",
+    "brand": "Sony",
+    "release_year": 1986
+  },
+  {
+    "id": 428,
+    "model": "Philips W3568",
+    "brand": "Philips",
+    "release_year": 2004
+  },
+  {
+    "id": 429,
+    "model": "Nokia 5030 XpressRadio",
+    "brand": "Nokia",
+    "release_year": 1994
+  },
+  {
+    "id": 430,
+    "model": "Lenovo A526",
+    "brand": "Lenovo",
+    "release_year": 2012
+  },
+  {
+    "id": 431,
+    "model": "Sony Tablet P 3G",
+    "brand": "Sony",
+    "release_year": 1994
+  },
+  {
+    "id": 432,
+    "model": "Microsoft Lumia 640 Dual SIM",
+    "brand": "Microsoft",
+    "release_year": 2004
+  },
+  {
+    "id": 433,
+    "model": "Posh Ultra Max LTE L550",
+    "brand": "Posh",
+    "release_year": 2005
+  },
+  {
+    "id": 434,
+    "model": "Wiko Lenny2",
+    "brand": "Wiko",
+    "release_year": 1998
+  },
+  {
+    "id": 435,
+    "model": "O2 Xphone II",
+    "brand": "O2",
+    "release_year": 1998
+  },
+  {
+    "id": 436,
+    "model": "i-mobile 625",
+    "brand": "i-mobile",
+    "release_year": 2006
+  },
+  {
+    "id": 437,
+    "model": "LG Wine Smart",
+    "brand": "LG",
+    "release_year": 2003
+  },
+  {
+    "id": 438,
+    "model": "Huawei P40 lite",
+    "brand": "Huawei",
+    "release_year": 1985
+  },
+  {
+    "id": 439,
+    "model": "alcatel OT-E159",
+    "brand": "alcatel",
+    "release_year": 1992
+  },
+  {
+    "id": 440,
+    "model": "Motorola W377",
+    "brand": "Motorola",
+    "release_year": 2002
+  },
+  {
+    "id": 441,
+    "model": "Haier V1000",
+    "brand": "Haier",
+    "release_year": 1991
+  },
+  {
+    "id": 442,
+    "model": "O2 XDA II",
+    "brand": "O2",
+    "release_year": 1987
+  },
+  {
+    "id": 443,
+    "model": "QMobile Explorer 3G",
+    "brand": "QMobile",
+    "release_year": 2008
+  },
+  {
+    "id": 444,
+    "model": "NEC 802",
+    "brand": "NEC",
+    "release_year": 1997
+  },
+  {
+    "id": 445,
+    "model": "Icemobile Mash",
+    "brand": "Icemobile",
+    "release_year": 2006
+  },
+  {
+    "id": 446,
+    "model": "Lava Iris X1",
+    "brand": "Lava",
+    "release_year": 2012
+  },
+  {
+    "id": 447,
+    "model": "Prestigio MultiPad Note 8.0 3G",
+    "brand": "Prestigio",
+    "release_year": 2002
+  },
+  {
+    "id": 448,
+    "model": "Ulefone S1",
+    "brand": "Ulefone",
+    "release_year": 2004
+  },
+  {
+    "id": 449,
+    "model": "Nokia 222",
+    "brand": "Nokia",
+    "release_year": 2013
+  },
+  {
+    "id": 450,
+    "model": "Samsung M350 Seek",
+    "brand": "Samsung",
+    "release_year": 2012
+  },
+  {
+    "id": 451,
+    "model": "Icemobile Tornado II",
+    "brand": "Icemobile",
+    "release_year": 2001
+  },
+  {
+    "id": 452,
+    "model": "Acer beTouch E101",
+    "brand": "Acer",
+    "release_year": 2000
+  },
+  {
+    "id": 453,
+    "model": "i-mobile TV 628",
+    "brand": "i-mobile",
+    "release_year": 2003
+  },
+  {
+    "id": 454,
+    "model": "Motorola ATRIX TV XT682",
+    "brand": "Motorola",
+    "release_year": 1990
+  },
+  {
+    "id": 455,
+    "model": "Spice M-5250 Boss Item",
+    "brand": "Spice",
+    "release_year": 2010
+  },
+  {
+    "id": 456,
+    "model": "Telit t110",
+    "brand": "Telit",
+    "release_year": 1987
+  },
+  {
+    "id": 457,
+    "model": "Asus Fonepad 7",
+    "brand": "Asus",
+    "release_year": 2004
+  },
+  {
+    "id": 458,
+    "model": "Samsung Galaxy V Plus",
+    "brand": "Samsung",
+    "release_year": 2002
+  },
+  {
+    "id": 459,
+    "model": "HTC Desire 700",
+    "brand": "HTC",
+    "release_year": 2008
+  },
+  {
+    "id": 460,
+    "model": "alcatel OT-361",
+    "brand": "alcatel",
+    "release_year": 1988
+  },
+  {
+    "id": 461,
+    "model": "Xiaomi Mi Note",
+    "brand": "Xiaomi",
+    "release_year": 1996
+  },
+  {
+    "id": 462,
+    "model": "Sharp GX10",
+    "brand": "Sharp",
+    "release_year": 1997
+  },
+  {
+    "id": 463,
+    "model": "Sony Xperia P",
+    "brand": "Sony",
+    "release_year": 2009
+  },
+  {
+    "id": 464,
+    "model": "Philips Xenium 9@9d",
+    "brand": "Philips",
+    "release_year": 2005
+  },
+  {
+    "id": 465,
+    "model": "HTC Nexus 9",
+    "brand": "HTC",
+    "release_year": 1993
+  },
+  {
+    "id": 466,
+    "model": "BQ Aquaris X Pro",
+    "brand": "BQ",
+    "release_year": 1997
+  },
+  {
+    "id": 467,
+    "model": "Samsung Galaxy Tab Pro 8.4 3G/LTE",
+    "brand": "Samsung",
+    "release_year": 1989
+  },
+  {
+    "id": 468,
+    "model": "alcatel Pixi 4 Plus Power",
+    "brand": "alcatel",
+    "release_year": 1999
+  },
+  {
+    "id": 469,
+    "model": "Samsung C3322",
+    "brand": "Samsung",
+    "release_year": 1985
+  },
+  {
+    "id": 470,
+    "model": "BlackBerry 8800",
+    "brand": "BlackBerry",
+    "release_year": 1997
+  },
+  {
+    "id": 471,
+    "model": "BLU Advance 4.0 L3",
+    "brand": "BLU",
+    "release_year": 2006
+  },
+  {
+    "id": 472,
+    "model": "verykool i305",
+    "brand": "verykool",
+    "release_year": 2013
+  },
+  {
+    "id": 473,
+    "model": "Motorola ROKR E6",
+    "brand": "Motorola",
+    "release_year": 2007
+  },
+  {
+    "id": 474,
+    "model": "LG KP210",
+    "brand": "LG",
+    "release_year": 1998
+  },
+  {
+    "id": 475,
+    "model": "verykool s5015 Spark II",
+    "brand": "verykool",
+    "release_year": 1992
+  },
+  {
+    "id": 476,
+    "model": "Samsung X400",
+    "brand": "Samsung",
+    "release_year": 1992
+  },
+  {
+    "id": 477,
+    "model": "Bird D611",
+    "brand": "Bird",
+    "release_year": 1990
+  },
+  {
+    "id": 478,
+    "model": "Huawei Y6 (2019)",
+    "brand": "Huawei",
+    "release_year": 1985
+  },
+  {
+    "id": 479,
+    "model": "Celkon Q455",
+    "brand": "Celkon",
+    "release_year": 2004
+  },
+  {
+    "id": 480,
+    "model": "alcatel OT 565",
+    "brand": "alcatel",
+    "release_year": 1992
+  },
+  {
+    "id": 481,
+    "model": "alcatel OT-E801",
+    "brand": "alcatel",
+    "release_year": 1978
+  },
+  {
+    "id": 482,
+    "model": "vivo Y93s",
+    "brand": "vivo",
+    "release_year": 2011
+  },
+  {
+    "id": 483,
+    "model": "Samsung Galaxy M01 Core",
+    "brand": "Samsung",
+    "release_year": 1997
+  },
+  {
+    "id": 484,
+    "model": "Oppo Reno5 4G",
+    "brand": "Oppo",
+    "release_year": 1986
+  },
+  {
+    "id": 485,
+    "model": "Lenovo A789",
+    "brand": "Lenovo",
+    "release_year": 1969
+  },
+  {
+    "id": 486,
+    "model": "verykool R23",
+    "brand": "verykool",
+    "release_year": 2013
+  },
+  {
+    "id": 487,
+    "model": "Samsung Galaxy Note10",
+    "brand": "Samsung",
+    "release_year": 2003
+  },
+  {
+    "id": 488,
+    "model": "VK Mobile VK540",
+    "brand": "VK",
+    "release_year": 1995
+  },
+  {
+    "id": 489,
+    "model": "Samsung Galaxy S II X T989D",
+    "brand": "Samsung",
+    "release_year": 1992
+  },
+  {
+    "id": 490,
+    "model": "Bosch Com 738",
+    "brand": "Bosch",
+    "release_year": 1989
+  },
+  {
+    "id": 491,
+    "model": "Samsung Z360",
+    "brand": "Samsung",
+    "release_year": 1996
+  },
+  {
+    "id": 492,
+    "model": "Chea 188",
+    "brand": "Chea",
+    "release_year": 1995
+  },
+  {
+    "id": 493,
+    "model": "Sendo X2",
+    "brand": "Sendo",
+    "release_year": 1982
+  },
+  {
+    "id": 494,
+    "model": "Realme 6",
+    "brand": "Realme",
+    "release_year": 2006
+  },
+  {
+    "id": 495,
+    "model": "verykool SL4502 Fusion II",
+    "brand": "verykool",
+    "release_year": 2010
+  },
+  {
+    "id": 496,
+    "model": "LG Optimus Vu II F200",
+    "brand": "LG",
+    "release_year": 1990
+  },
+  {
+    "id": 497,
+    "model": "Telit t800",
+    "brand": "Telit",
+    "release_year": 1994
+  },
+  {
+    "id": 498,
+    "model": "Motorola Edge",
+    "brand": "Motorola",
+    "release_year": 2005
+  },
+  {
+    "id": 499,
+    "model": "Samsung W9705",
+    "brand": "Samsung",
+    "release_year": 2008
+  },
+  {
+    "id": 500,
+    "model": "Siemens A60",
+    "brand": "Siemens",
+    "release_year": 1999
+  },
+  {
+    "id": 501,
+    "model": "Quest 3S",
+    "brand": "Meta",
+    "release_year": "2024",
+    "owner_id": "6"
+  }
+]
